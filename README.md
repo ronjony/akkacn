@@ -1,5 +1,9 @@
-# AKKA 2.3.6 Scala 文档
+# AKKA 2.4.1 Scala 文档
 
-该文档是Akka 2.3.6 Scala 文档的中文翻译（[github](https://github.com/jasonqu/akka-doc-cn)）。
+该文档在Akka 2.3.6 Scala 文档的中文翻译（[github](https://github.com/jasonqu/akka-doc-cn)）基础上，对akka2.4.1进行翻译。对其中部分内容进行改进。同时完成未完成的所有翻译。
 
-本文大量参考了[上海广谈信息技术有限公司](http://www.gtan.com/)的[《Akka 2.0文档》](http://www.gtan.com/welfare04.html)，[广谈公益](http://www.gtan.com/welfare.html)还有很多优秀的资源，感兴趣的请移步参考。
+
+保持与自己的文档阅读进度一致。同时，在应用的基础上会适当添加部分备注。
+
+ 
+从akka开始，坚持学习文档，同时熟悉所有的模块功能及设计。
