@@ -360,7 +360,7 @@ future foreach println
 ```
 
 ###After
-``akka.pattern.after``使得在给定超时后完成一个``Future``，获取其值或异常比昂的很容易。
+``akka.pattern.after``使得在给定超时后完成一个``Future``，获取其值或异常很容易。
 
 ```scala
 // TODO after is unfortunately shadowed by ScalaTest, fix as part of #3759
